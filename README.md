@@ -1,15 +1,3 @@
-# Welcome to KodeKloud RAG Crash Course Labs 🚀
+# RAG practice lab
 
-This is your Visual Studio Code editor where you will learn and practice about RAG!
-
-To begin with 🍹 relax and start working on the questions on the left.
-
-All the best!! 💪
-
-To open a new terminal Press:
-
-MAC:
-⌃ + ⬆  + `
-
-Windows:
-Ctrl + Shift + `
+Self RAG pipeline practice using colab
